@@ -1,7 +1,7 @@
 # Discord Music Bot
-11111
+
 Bot musik dengan slash commands, panel tombol, playlist pribadi, DJ role, filter, autoplay, dan mode 24/7. Menerima kata kunci serta tautan YouTube, Spotify, Apple Music, dan SoundCloud sesuai dukungan extractor dan ketersediaan sumber audio.
-iya kaya gitu aja sih oke
+
 ## Persyaratan
 
 - Node.js 20.11 atau lebih baru
